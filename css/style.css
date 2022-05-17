@@ -1,3 +1,8 @@
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
 .jumbotron {
   padding: 70px 30px 70px 30px;
   margin: 0 auto;
@@ -27,4 +32,8 @@
   font-size: 80%;
   margin: 0px;
   color: #0f0f0f;
+}
+
+.navbar-dark {
+  background-color: #512da8;
 }
