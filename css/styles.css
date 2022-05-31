@@ -60,7 +60,7 @@ body {
 
 .modal-dialog .modal-body {
   background: #9575CD;
-  color: floralwhite; }
+  font-weight: bold; }
 
 .modal-content {
   border: none; }
